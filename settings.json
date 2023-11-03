@@ -1,0 +1,16 @@
+{
+    "state": "hi",
+    "description": "hello",
+    "rpc": "134567890",
+    "activityType": "watching",
+    "firstButton": "true",
+    "firstLabel": "name!",
+    "firstUrl": "https://www.youtube.com",
+    "secondButton": "true",
+    "secondLabel": "name!",
+    "secondUrl": "https://www.twitch.tv",
+    "largeImage": "image link!!!121!1",
+    "largeText": "texters owowowow",
+    "smallImage": "image link!!!!#!",
+    "smallText": "texstings owoowwow"
+}
